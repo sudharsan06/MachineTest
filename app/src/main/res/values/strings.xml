@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MachineTest</string>
+    <string name="strName">User Name</string>
+    <string name="strEmail">User Email</string>
+</resources>
